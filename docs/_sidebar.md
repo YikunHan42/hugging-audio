@@ -3,3 +3,4 @@
     - [0.1 对课程的期待](chapter0/what_to_expect_from_the_course.md)
 - 第1章 使用语音数据
     - [1.1 你将学到什么](chapter1/what_you'll_learn.md)
+    - [1.2 语音数据介绍](chapter1/introduction_to_audio_data.md)
