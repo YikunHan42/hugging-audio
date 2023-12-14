@@ -7,3 +7,4 @@
     - [1.3 加载和探索音频数据集](chapter1/load_and_explore_an_audio_dataset.md)
     - [1.4 预处理语音数据](chapter1/preprocessing_audio_data.md)
     - [1.5 流式化语音数据](chapter1/streaming_audio_data.md)
+    - [1.6 测验](chapter1/quiz.md)
