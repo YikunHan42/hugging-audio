@@ -8,3 +8,4 @@
     - [1.4 预处理语音数据](chapter1/preprocessing_audio_data.md)
     - [1.5 流式化语音数据](chapter1/streaming_audio_data.md)
     - [1.6 测验](chapter1/quiz.md)
+    - [1.7 补充阅读和材料](chapter1/supplemental_reading_and_resources.md)
