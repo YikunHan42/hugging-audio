@@ -9,3 +9,6 @@
     - [1.5 流式化语音数据](chapter1/streaming_audio_data.md)
     - [1.6 测验](chapter1/quiz.md)
     - [1.7 补充阅读和材料](chapter1/supplemental_reading_and_resources.md)
+- 第2章 语音应用入门
+    - [2.1 语音应用概览](chapter2/tour_of_audio_applications.md)
+    - [2.2 音频分类流水线](chapter2/audio_classification_with_a_pipeline.md)
